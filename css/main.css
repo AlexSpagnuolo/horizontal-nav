@@ -5,3 +5,13 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+nav ul {
+  margin: 0.3em;
+  padding: .6em;
+  list-style-type: none;
+}
+
+nav li {
+  display: inline;
+}
