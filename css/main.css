@@ -15,3 +15,10 @@ nav ul {
 nav li {
   display: inline;
 }
+
+nav a {
+  display: inline-block;
+  width: 6em;
+  padding: .5em;
+  background-color: #713837;
+}
