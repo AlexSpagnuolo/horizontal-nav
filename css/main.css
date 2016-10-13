@@ -22,7 +22,8 @@ body {
 
 nav {
   background-color: #79756f;
-  border: 3px solid #595652;
+  border-top: 3px solid #595652;
+  border-bottom: 3px solid #595652;
 }
 
 nav ul {
