@@ -15,6 +15,7 @@ h1 {
 
 nav {
   background-color: #79756f;
+  border: 3px solid #595652;
 }
 
 nav ul {
@@ -36,4 +37,8 @@ nav a {
   color: #fff;
   text-decoration: none;
   text-align: center;
+}
+
+a:hover {
+  background-color: #f33;
 }
