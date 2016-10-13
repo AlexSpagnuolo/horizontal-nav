@@ -11,8 +11,13 @@ html {
 h1 {
   font-family: "Bevan", cursive;
   text-align: center;
+  font-size: 2rem;
   color: #fff;
-  margin: 0.3em;
+  margin: .2em;
+}
+
+body {
+  margin: 0;
 }
 
 nav {
