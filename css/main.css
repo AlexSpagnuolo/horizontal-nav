@@ -1,19 +1,32 @@
 html {
   box-sizing: border-box;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
+h1 {
+  font-family: 'Bevan', cursive;
+  text-align: center;
+  color: #fff;
+}
+
+nav {
+  background-color: #79756f;
+}
+
 nav ul {
   margin: 0.3em;
   padding: .6em;
   list-style-type: none;
+  text-align: center;
 }
 
 nav li {
   display: inline;
+  text-align: center;
 }
 
 nav a {
@@ -22,4 +35,5 @@ nav a {
   background-color: #713837;
   color: #fff;
   text-decoration: none;
+  text-align: center;
 }
